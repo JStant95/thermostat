@@ -1,3 +1,12 @@
+body {
+  font-family: "Exo";
+  font-size: 40px;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
 .low-usage {
   color: green;
 }
